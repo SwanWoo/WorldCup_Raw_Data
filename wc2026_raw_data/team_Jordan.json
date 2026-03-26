@@ -1,0 +1,12 @@
+{
+  "team": {
+    "id": 1548,
+    "name": "Jordan",
+    "code": "JOR"
+  },
+  "matches": [
+    {
+      "group": "Group J"
+    }
+  ]
+}

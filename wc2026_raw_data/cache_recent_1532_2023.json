@@ -1,0 +1,1612 @@
+[
+  {
+    "fixture": {
+      "id": 859125,
+      "referee": "Mohamed Hussein",
+      "timezone": "UTC",
+      "date": "2022-06-04T19:00:00+00:00",
+      "timestamp": 1654369200,
+      "periods": {
+        "first": 1654369200,
+        "second": 1654372800
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade du 5 Juillet 1962",
+        "city": "Algiers"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1532,
+        "name": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/1532.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1519,
+        "name": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/1519.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 859150,
+      "referee": "Mahmood Ismail",
+      "timezone": "UTC",
+      "date": "2022-06-08T16:00:00+00:00",
+      "timestamp": 1654704000,
+      "periods": {
+        "first": 1654704000,
+        "second": 1654707600
+      },
+      "venue": {
+        "id": 1550,
+        "name": "Benjamin Mkapa National Stadium",
+        "city": "Dar-es-Salaam"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 2",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1489,
+        "name": "Tanzania",
+        "logo": "https://media.api-sports.io/football/teams/1489.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1532,
+        "name": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/1532.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 859173,
+      "referee": "Mahmood Ismail",
+      "timezone": "UTC",
+      "date": "2023-03-23T21:00:00+00:00",
+      "timestamp": 1679605200,
+      "periods": {
+        "first": 1679605200,
+        "second": 1679608800
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade de Nelson Mandela",
+        "city": "Baraki"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 3",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1532,
+        "name": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/1532.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1505,
+        "name": "Niger",
+        "logo": "https://media.api-sports.io/football/teams/1505.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 859197,
+      "referee": "B. Traoré",
+      "timezone": "UTC",
+      "date": "2023-03-27T16:00:00+00:00",
+      "timestamp": 1679932800,
+      "periods": {
+        "first": 1679932800,
+        "second": 1679936400
+      },
+      "venue": {
+        "id": 19755,
+        "name": "Stade Olympique Hammadi Agrebi",
+        "city": "Radès"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 4",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1505,
+        "name": "Niger",
+        "logo": "https://media.api-sports.io/football/teams/1505.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1532,
+        "name": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/1532.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 859221,
+      "referee": "P. Atcho",
+      "timezone": "UTC",
+      "date": "2023-06-18T15:00:00+00:00",
+      "timestamp": 1687100400,
+      "periods": {
+        "first": 1687100400,
+        "second": 1687104000
+      },
+      "venue": {
+        "id": 1592,
+        "name": "Stade Omnisport de Douala",
+        "city": "Douala"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 5",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1519,
+        "name": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/1519.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1532,
+        "name": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/1532.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 859246,
+      "referee": "Houngnandande",
+      "timezone": "UTC",
+      "date": "2023-09-07T19:00:00+00:00",
+      "timestamp": 1694113200,
+      "periods": {
+        "first": 1694113200,
+        "second": 1694116800
+      },
+      "venue": {
+        "id": 7,
+        "name": "Stade du 19 Mai 1956",
+        "city": "Annaba"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/36.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 6",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1532,
+        "name": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/1532.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1489,
+        "name": "Tanzania",
+        "logo": "https://media.api-sports.io/football/teams/1489.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1031232,
+      "referee": "A. Bouh",
+      "timezone": "UTC",
+      "date": "2023-06-20T19:00:00+00:00",
+      "timestamp": 1687287600,
+      "periods": {
+        "first": 1687287600,
+        "second": 1687291200
+      },
+      "venue": {
+        "id": 7,
+        "name": "Stade du 19 Mai 1956",
+        "city": "Annaba"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1532,
+        "name": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/1532.png",
+        "winner": null
+      },
+      "away": {
+        "id": 28,
+        "name": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/28.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1061059,
+      "referee": "A. Bouh",
+      "timezone": "UTC",
+      "date": "2023-09-12T19:00:00+00:00",
+      "timestamp": 1694545200,
+      "periods": {
+        "first": 1694545200,
+        "second": 1694548800
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Me Abdoulaye Wade",
+        "city": "Diamniadio"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 13,
+        "name": "Senegal",
+        "logo": "https://media.api-sports.io/football/teams/13.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1532,
+        "name": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/1532.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1125865,
+      "referee": "B. Traoré",
+      "timezone": "UTC",
+      "date": "2023-11-16T16:00:00+00:00",
+      "timestamp": 1700150400,
+      "periods": {
+        "first": 1700150400,
+        "second": 1700154000
+      },
+      "venue": {
+        "id": null,
+        "name": "Nelson Mandela Stadium",
+        "city": "Baraki"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1532,
+        "name": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/1532.png",
+        "winner": true
+      },
+      "away": {
+        "id": 8050,
+        "name": "Somalia",
+        "logo": "https://media.api-sports.io/football/teams/8050.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1125892,
+      "referee": "S. Uwikunda",
+      "timezone": "UTC",
+      "date": "2023-11-19T13:00:00+00:00",
+      "timestamp": 1700398800,
+      "periods": {
+        "first": 1700398800,
+        "second": 1700402400
+      },
+      "venue": {
+        "id": 1113,
+        "name": "Estádio Nacional do Zimpeto",
+        "city": "Maputo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1512,
+        "name": "Mozambique",
+        "logo": "https://media.api-sports.io/football/teams/1512.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1532,
+        "name": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/1532.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1125920,
+      "referee": "B. Tessema",
+      "timezone": "UTC",
+      "date": "2024-06-06T19:00:00+00:00",
+      "timestamp": 1717700400,
+      "periods": {
+        "first": 1717700400,
+        "second": 1717704000
+      },
+      "venue": {
+        "id": null,
+        "name": "Nelson Mandela Stadium",
+        "city": "Baraki"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1532,
+        "name": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/1532.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1509,
+        "name": "Guinea",
+        "logo": "https://media.api-sports.io/football/teams/1509.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1125946,
+      "referee": "A. Ligali",
+      "timezone": "UTC",
+      "date": "2024-06-10T16:00:00+00:00",
+      "timestamp": 1718035200,
+      "periods": {
+        "first": 1718035200,
+        "second": 1718038800
+      },
+      "venue": {
+        "id": null,
+        "name": "Nelson Mandela National Stadium",
+        "city": "Kampala"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1519,
+        "name": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/1519.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1532,
+        "name": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/1532.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1125974,
+      "referee": "A. Arajiga",
+      "timezone": "UTC",
+      "date": "2025-03-21T13:00:00+00:00",
+      "timestamp": 1742562000,
+      "periods": {
+        "first": 1742562000,
+        "second": 1742565600
+      },
+      "venue": {
+        "id": null,
+        "name": "Obed Itani Chilume Stadium",
+        "city": "Francistown"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1520,
+        "name": "Botswana",
+        "logo": "https://media.api-sports.io/football/teams/1520.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1532,
+        "name": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/1532.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1126000,
+      "referee": "P. Ndabihawenimana",
+      "timezone": "UTC",
+      "date": "2025-03-25T21:00:00+00:00",
+      "timestamp": 1742936400,
+      "periods": {
+        "first": 1742936400,
+        "second": 1742940000
+      },
+      "venue": {
+        "id": null,
+        "name": "Hocine Ait Ahmed Stadium",
+        "city": "Tizi Ouzou"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1532,
+        "name": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/1532.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1512,
+        "name": "Mozambique",
+        "logo": "https://media.api-sports.io/football/teams/1512.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 5,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 5,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1126028,
+      "referee": "Pacifique Ndabihawenimana",
+      "timezone": "UTC",
+      "date": "2025-09-04T19:00:00+00:00",
+      "timestamp": 1757012400,
+      "periods": {
+        "first": 1757012400,
+        "second": 1757016000
+      },
+      "venue": {
+        "id": null,
+        "name": "Hocine Ait Ahmed Stadium",
+        "city": "Tizi Ouzou"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 10
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 7",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1532,
+        "name": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/1532.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1520,
+        "name": "Botswana",
+        "logo": "https://media.api-sports.io/football/teams/1520.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1126053,
+      "referee": "Samuel Uwikunda",
+      "timezone": "UTC",
+      "date": "2025-09-08T16:00:00+00:00",
+      "timestamp": 1757347200,
+      "periods": {
+        "first": 1757347200,
+        "second": 1757350800
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade Mohamed V",
+        "city": "Casablanca"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 10
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 8",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1509,
+        "name": "Guinea",
+        "logo": "https://media.api-sports.io/football/teams/1509.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1532,
+        "name": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/1532.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1126080,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2025-10-09T16:00:00+00:00",
+      "timestamp": 1760025600,
+      "periods": {
+        "first": 1760025600,
+        "second": 1760029200
+      },
+      "venue": {
+        "id": null,
+        "name": "Miloud Hadefi stadium",
+        "city": "Oran"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 9",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 8050,
+        "name": "Somalia",
+        "logo": "https://media.api-sports.io/football/teams/8050.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1532,
+        "name": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/1532.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1126109,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2025-10-14T16:00:00+00:00",
+      "timestamp": 1760457600,
+      "periods": {
+        "first": 1760457600,
+        "second": 1760461200
+      },
+      "venue": {
+        "id": null,
+        "name": "Hocine Ait Ahmed Stadium",
+        "city": "Tizi Ouzou"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/29.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 10",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1532,
+        "name": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/1532.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1519,
+        "name": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/1519.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1135018,
+      "referee": "M. Malki",
+      "timezone": "UTC",
+      "date": "2023-10-12T19:00:00+00:00",
+      "timestamp": 1697137200,
+      "periods": {
+        "first": 1697137200,
+        "second": 1697140800
+      },
+      "venue": {
+        "id": 16,
+        "name": "Stade Mohamed-Hamlaoui",
+        "city": "Constantine"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1532,
+        "name": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/1532.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1533,
+        "name": "Cape Verde Islands",
+        "logo": "https://media.api-sports.io/football/teams/1533.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 5,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 5,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1135019,
+      "referee": "Yahya Almulla",
+      "timezone": "UTC",
+      "date": "2023-10-16T16:00:00+00:00",
+      "timestamp": 1697472000,
+      "periods": {
+        "first": 1697472000,
+        "second": 1697475600
+      },
+      "venue": {
+        "id": null,
+        "name": "Hazza Bin Zayed Stadium",
+        "city": "Al Ain"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 32,
+        "name": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1532,
+        "name": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/1532.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1138703,
+      "referee": "I. Sy",
+      "timezone": "UTC",
+      "date": "2024-01-15T20:00:00+00:00",
+      "timestamp": 1705348800,
+      "periods": {
+        "first": 1705348800,
+        "second": 1705352400
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade de Bouaké",
+        "city": "Bouaké"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1532,
+        "name": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/1532.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1529,
+        "name": "Angola",
+        "logo": "https://media.api-sports.io/football/teams/1529.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1138715,
+      "referee": "A. Tom",
+      "timezone": "UTC",
+      "date": "2024-01-20T14:00:00+00:00",
+      "timestamp": 1705759200,
+      "periods": {
+        "first": 1705759200,
+        "second": 1705762800
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade de Bouaké",
+        "city": "Bouaké"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1532,
+        "name": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/1532.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1502,
+        "name": "Burkina Faso",
+        "logo": "https://media.api-sports.io/football/teams/1502.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1138728,
+      "referee": "O. Artan",
+      "timezone": "UTC",
+      "date": "2024-01-23T20:00:00+00:00",
+      "timestamp": 1706040000,
+      "periods": {
+        "first": 1706040000,
+        "second": 1706043600
+      },
+      "venue": {
+        "id": null,
+        "name": "Stade de Bouaké",
+        "city": "Bouaké"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/6.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group Stage - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1491,
+        "name": "Mauritania",
+        "logo": "https://media.api-sports.io/football/teams/1491.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1532,
+        "name": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/1532.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "team": {
+    "id": 11,
+    "name": "Panama",
+    "code": "PAN"
+  },
+  "matches": [
+    {
+      "group": "Group L"
+    }
+  ]
+}

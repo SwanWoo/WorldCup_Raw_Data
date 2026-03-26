@@ -1,0 +1,32 @@
+{
+  "Euro": {
+    "id": 4,
+    "name": "Euro Championship",
+    "season": 2024
+  },
+  "Copa America": {
+    "id": 9,
+    "name": "Copa America",
+    "season": 2024
+  },
+  "Africa Cup of Nations": {
+    "id": 6,
+    "name": "Africa Cup of Nations",
+    "season": 2023
+  },
+  "Asian Cup": {
+    "id": 7,
+    "name": "Asian Cup",
+    "season": 2023
+  },
+  "CONCACAF Gold Cup": {
+    "id": 22,
+    "name": "CONCACAF Gold Cup",
+    "season": 2023
+  },
+  "UEFA Nations League": {
+    "id": 5,
+    "name": "UEFA Nations League",
+    "season": 2024
+  }
+}

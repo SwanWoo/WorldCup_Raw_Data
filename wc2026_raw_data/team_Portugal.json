@@ -1,0 +1,12 @@
+{
+  "team": {
+    "id": 27,
+    "name": "Portugal",
+    "code": "POR"
+  },
+  "matches": [
+    {
+      "group": "Group K"
+    }
+  ]
+}

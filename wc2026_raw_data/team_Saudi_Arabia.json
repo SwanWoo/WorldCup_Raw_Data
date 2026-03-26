@@ -1,0 +1,12 @@
+{
+  "team": {
+    "id": 23,
+    "name": "Saudi Arabia",
+    "code": "SAU"
+  },
+  "matches": [
+    {
+      "group": "Group H"
+    }
+  ]
+}

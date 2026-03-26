@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3:*)",
+      "Bash(ls -la /Users/user/worldcup_data/wc2026_raw_data/wc2022_*.json /Users/user/worldcup_data/wc2026_raw_data/key_teams_*.json /Users/user/worldcup_data/api_sports_team_ids.json)"
+    ]
+  }
+}

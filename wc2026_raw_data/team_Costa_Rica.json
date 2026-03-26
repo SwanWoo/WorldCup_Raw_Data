@@ -1,0 +1,12 @@
+{
+  "team": {
+    "id": 29,
+    "name": "Costa Rica",
+    "code": "COS"
+  },
+  "matches": [
+    {
+      "group": "Group D"
+    }
+  ]
+}

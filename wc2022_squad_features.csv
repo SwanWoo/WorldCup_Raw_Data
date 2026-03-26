@@ -1,0 +1,4 @@
+,team,squad_size,avg_player_rating,rated_players,avg_age,positions
+0,Argentina,20,6.98,11,29.4,"{'Attacker': 6, 'Defender': 3, 'Midfielder': 6, 'Goalkeeper': 5}"
+1,Croatia,20,6.97,10,28.6,"{'Defender': 5, 'Midfielder': 7, 'Goalkeeper': 4, 'Attacker': 4}"
+2,Portugal,20,7.04,13,29.0,"{'Defender': 8, 'Goalkeeper': 3, 'Attacker': 4, 'Midfielder': 4, 'Forward': 1}"

@@ -1,0 +1,282 @@
+[
+  {
+    "fixture": {
+      "id": 1155247,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2024-01-08T14:00:00+00:00",
+      "timestamp": 1704722400,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "city": null
+      },
+      "status": {
+        "long": "Match Cancelled",
+        "short": "CANC",
+        "elapsed": null,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1530,
+        "name": "Cameroon",
+        "logo": "https://media.api-sports.io/football/teams/1530.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1521,
+        "name": "Equatorial Guinea",
+        "logo": "https://media.api-sports.io/football/teams/1521.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1155253,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2024-01-09T13:00:00+00:00",
+      "timestamp": 1704805200,
+      "periods": {
+        "first": 1704805200,
+        "second": 1704808800
+      },
+      "venue": {
+        "id": 1364,
+        "name": "King Abdullah Sports City",
+        "city": "Jeddah"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/10.png",
+      "flag": null,
+      "season": 2024,
+      "round": "Friendlies 1",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1507,
+        "name": "Zambia",
+        "logo": "https://media.api-sports.io/football/teams/1507.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1530,
+        "name": "Cameroon",
+        "logo": "https://media.api-sports.io/football/teams/1530.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1313991,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2024-12-22T14:00:00+00:00",
+      "timestamp": 1734876000,
+      "periods": {
+        "first": 1734876000,
+        "second": 1734879600
+      },
+      "venue": {
+        "id": 4074,
+        "name": "Stade Omnisports de Bafoussam",
+        "city": "Bafoussam"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 1163,
+      "name": "African Nations Championship - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1163.png",
+      "flag": null,
+      "season": 2024,
+      "round": "2nd Round",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1527,
+        "name": "Central African Republic",
+        "logo": "https://media.api-sports.io/football/teams/1527.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1530,
+        "name": "Cameroon",
+        "logo": "https://media.api-sports.io/football/teams/1530.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1313992,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2024-12-28T13:00:00+00:00",
+      "timestamp": 1735390800,
+      "periods": {
+        "first": 1735390800,
+        "second": 1735394400
+      },
+      "venue": {
+        "id": 4074,
+        "name": "Stade Omnisports de Bafoussam",
+        "city": "Bafoussam"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 1163,
+      "name": "African Nations Championship - Qualification",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/1163.png",
+      "flag": null,
+      "season": 2024,
+      "round": "2nd Round",
+      "standings": false
+    },
+    "teams": {
+      "home": {
+        "id": 1530,
+        "name": "Cameroon",
+        "logo": "https://media.api-sports.io/football/teams/1530.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1527,
+        "name": "Central African Republic",
+        "logo": "https://media.api-sports.io/football/teams/1527.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  }
+]

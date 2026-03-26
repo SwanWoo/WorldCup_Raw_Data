@@ -1,0 +1,12 @@
+{
+  "team": {
+    "id": 1118,
+    "name": "Netherlands",
+    "code": "NET"
+  },
+  "matches": [
+    {
+      "group": "Group F"
+    }
+  ]
+}

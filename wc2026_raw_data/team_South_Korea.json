@@ -1,0 +1,12 @@
+{
+  "team": {
+    "id": 17,
+    "name": "South Korea",
+    "code": "SOU"
+  },
+  "matches": [
+    {
+      "group": "Group A"
+    }
+  ]
+}

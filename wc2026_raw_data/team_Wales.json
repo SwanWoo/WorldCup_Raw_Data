@@ -1,0 +1,12 @@
+{
+  "team": {
+    "id": 767,
+    "name": "Wales",
+    "code": "WAL"
+  },
+  "matches": [
+    {
+      "group": "Group F"
+    }
+  ]
+}
